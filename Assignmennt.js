@@ -38,3 +38,6 @@ console.log("element exists in array");
 } else {
 console.log("element doesn't exist in array")
 }
+
+
+
