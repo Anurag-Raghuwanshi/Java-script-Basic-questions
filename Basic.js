@@ -71,8 +71,8 @@
     //    let  start = ["janurary" ,"july", "march","August"];
     //         start.splice(0,2,"july","june");
     //    console.log(start);
-       let arr = ["a","b"];
-       let arrcopy = arr;
-       arrcopy.push(c);
+    //    let arr = ["a","b"];
+    //    let arrcopy = arr;
+    //    arrcopy.push(c);
 
  
