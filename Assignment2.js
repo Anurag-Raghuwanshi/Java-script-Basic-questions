@@ -38,11 +38,11 @@
 // console.log(fact);
  
     //question no = 5;
-let arr = [2,4,5,6,20,355,60];
-let largest = 0;
-for(let i=0; i<=arr.length; i++){
-    if(largest<arr[i]){
-        largest= arr[i];
-    }
-}
-console.log(largest);
+// let arr = [2,4,5,6,20,355,60];
+// let largest = 0;
+// for(let i=0; i<=arr.length; i++){
+//     if(largest<arr[i]){
+//         largest= arr[i];
+//     }
+// }
+// console.log(largest);
