@@ -8,7 +8,7 @@
 // console.log(Twitter);
 
 
-           //guessing game 
+//          //  guessing game 
 // const  max = prompt("Enter you number");
 // const random =  Math.floor(Math.random()*max)+1;
 //   let guess = prompt("Enter your guess");
@@ -28,11 +28,11 @@
  
 // }
  
-         //question no = 1;
+//        //  question no = 1;
 //  const dice = Math.floor(Math.random()*6)+1;
 //  console.log(dice);
 
-        //question no = 2;
+//        // question no = 2;
 // const car = {
 //        name : ["Audi","maruti","fortuner","rangrover"],
 //        model : ["2026","2024","2016","2020"],
@@ -41,12 +41,12 @@
 //       console.log(car.name[0],car.model[0],car.colour[0]);
 
 
-           //question no =3;
-const person = {
-         name : "Anurag",
-         city : "Indore",
-         age  :  "23",
-};
-    person.city = "Newyork";
-    person.contry = "United State";
-    console.log(person);
+//            //question no =3;
+// const person = {
+//          name : "Anurag",
+//          city : "Indore",
+//          age  :  "23",
+// };
+//     person.city = "Newyork";
+//     person.contry = "United State";
+//     console.log(person);
